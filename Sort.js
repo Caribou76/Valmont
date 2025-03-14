@@ -1,3 +1,6 @@
+    alert("Coucou !");
+
+
 document.addEventListener("DOMContentLoaded", function () {
     console.log("🚀 Script de gestion des produits chargé...");
 
